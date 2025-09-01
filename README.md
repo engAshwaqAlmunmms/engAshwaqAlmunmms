@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" width="115">
 </p>
 
-<h1 align="center" style="color:#6A5ACD;">Hi there 👋</h1>
+<h1 align="center" style="color:#6A5ACD;">السلام عليكم ورحمة الله وبركاتة 👋 </h1>
 
 <ul>
   <li><span style="font-size:18px; color:#FF69B4;">👩 My name is <b>Ashwaq S Almunmms</b></span></li>
