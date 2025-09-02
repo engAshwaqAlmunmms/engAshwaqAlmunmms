@@ -1,7 +1,7 @@
 <a href='https://postimg.cc/3WS5fvQj' target='_blank'><img src='https://i.postimg.cc/qM0JRsmF/5039054.png' border='0' alt='5039054'/></a>
 <hr></hr>
 
-<h1 align="center" style="color:#6A5ACD;">السلام عليكم ورحمة الله وبركاتة 👋 </h1>
+<h1 align="center" style="color:#6A5ACD;">السلام عليكم ورحمة الله وبركاته 👋 </h1>
 
 
 <p align="center">
